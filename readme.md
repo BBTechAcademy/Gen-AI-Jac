@@ -10,4 +10,4 @@ A simple command-line to-do list application that helps you manage daily tasks.
 
 ## How to Run
 ```bash
-python todo_list.py
+python main.py
