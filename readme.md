@@ -24,4 +24,4 @@ jac main.jac
 ```
 
 
-<p style = "align:centre">Copyleft 2025. I am still learning</p>
+<center> Copyleft 2025🌚. No rights reserved 🌝. I am still learning about it 😁 </center>
