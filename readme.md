@@ -23,4 +23,5 @@ python main.py
 jac main.jac
 ```
 
-Copyleft 2025. I am still learning
+
+<p style = "align:centre">Copyleft 2025. I am still learning</p>
